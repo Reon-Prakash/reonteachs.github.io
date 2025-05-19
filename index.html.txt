@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Reonteachs</title>
+</head>
+<body>
+    <h1>Welcome to Reonteachs!</h1>
+    <p>Your free educational website.</p>
+</body>
+</html>
